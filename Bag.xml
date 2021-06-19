@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+
+<properties>
+<entry key="url">jdbc:mariadb://127.0.0.1:3306/kgy</entry>
+<entry key="user">kgy</entry>
+<entry key="password">kgy</entry>
+</properties>
